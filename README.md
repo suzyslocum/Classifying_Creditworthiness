@@ -1,7 +1,7 @@
-# Module 12 Challenge Assignment 
----
+# Classifying Creditworthiness of Borrowers
 
-## Classifying Creditworthiness of Borrowers
+*Module 12 Challenge Assignment*
+
 ---
 
 ## Overview of the Analysis
